@@ -1,0 +1,14 @@
+[INFO] Scheme: BBR
+Throughput: 850 kbps
+RTT: 210 ms
+Packet Loss: 1.0%
+
+[INFO] Scheme: CUBIC
+Throughput: 600 kbps
+RTT: 260 ms
+Packet Loss: 5.5%
+
+[INFO] Scheme: Copa
+Throughput: 750 kbps
+RTT: 180 ms
+Packet Loss: 0.3%

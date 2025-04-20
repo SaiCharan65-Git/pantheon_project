@@ -1,7 +1,7 @@
 # pantheon_project
 # Pantheon Congestion Control Evaluation
 
-This repository accompanies the report submitted for **Programming Assignment 3** in **Computer Networks (Spring 2025)**. It contains the full setup, scripts, and results for evaluating three modern congestion control algorithms: **CUBIC**, **BBR**, and **Copa**, using the **Pantheon** testbed and **Mahimahi** emulated networks.
+This repository accompanies the report submitted for **Programming Assignment 3** in **Computer Networks**. It contains the full setup, scripts, and results for evaluating three modern congestion control algorithms: **CUBIC**, **BBR**, and **Copa**, using the **Pantheon** testbed and **Mahimahi** emulated networks.
 
 ---
 
